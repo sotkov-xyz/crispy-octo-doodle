@@ -1,8 +1,7 @@
 name: 'Pipeline'
 on:
-  push:
-    branches:
-      - 'master'
+  merge_group:
+    types: [checks_requested]
   pull_request:
 jobs:
   ci:
