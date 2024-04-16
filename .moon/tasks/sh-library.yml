@@ -1,0 +1,5 @@
+tasks:
+  build:
+    command: cat lib.sh
+    inputs:
+    - lib.sh

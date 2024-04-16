@@ -3,3 +3,5 @@ tasks:
     command: bash ./build.sh
     inputs:
     - build.sh
+    deps:
+    - ^:build
