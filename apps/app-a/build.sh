@@ -1,3 +1,3 @@
 source ../../lib/sleeplib/lib.sh
 
-sleep_and_announce 5
+sleep_and_announce 4
