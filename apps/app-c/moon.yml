@@ -1,2 +1,4 @@
 language: sh
 type: application
+dependsOn:
+- sleeplib
