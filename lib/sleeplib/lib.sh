@@ -5,7 +5,7 @@ function sleep_and_announce() {
     if [[ -n $1 ]] && [[ $1 =~ ^[0-9]+$ ]]; then
         echo "Going to sleep for $1 seconds..."
         sleep $1
-        echo "Done sleeping!"
+        echo "Done sleeping for now!"
     else
         echo "Please provide a valid number of seconds as an argument."
     fi
