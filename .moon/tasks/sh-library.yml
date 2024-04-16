@@ -1,5 +1,5 @@
 tasks:
   build:
-    command: cat lib.sh
+    command: sleep 4
     inputs:
     - lib.sh
