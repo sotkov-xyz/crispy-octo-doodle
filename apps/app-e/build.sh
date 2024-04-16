@@ -1,3 +1,3 @@
-source ../../lib/sleeplib/lib.sh
+source ../../lib/dreamlib/lib.sh
 
-sleep_and_announce 7
+dream_and_announce 7
