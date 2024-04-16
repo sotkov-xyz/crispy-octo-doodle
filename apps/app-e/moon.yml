@@ -1,4 +1,4 @@
 language: sh
 type: application
 dependsOn:
-- sleeplib
+- dreamlib
